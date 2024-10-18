@@ -67,3 +67,5 @@ class CustomerAPIController(http.Controller):
                 'success': False,
                 'error': str(e)
             }
+
+# creating a company and add customers inside that company
